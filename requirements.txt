@@ -1,0 +1,4 @@
+jupyter
+datasets
+pandas
+vllm
